@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "910887244376",
+    "project_id": "mobile-programming-e3372",
+    "storage_bucket": "mobile-programming-e3372.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910887244376:android:259d7cdf7da009f0f7702d",
+        "android_client_info": {
+          "package_name": "com.manish.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910887244376-hqlj4pqiunt1k1l3nsq248i1j2ldh6oc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manish.myapp",
+            "certificate_hash": "f28f86a5334b3574436a2b1fd14940a62ddf29c1"
+          }
+        },
+        {
+          "client_id": "910887244376-eggaou7q0q08bhnn9qs52l2fsogtmrap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzZg8f8VhVtxmj0FKMtrm5jhujPkce-TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910887244376-eggaou7q0q08bhnn9qs52l2fsogtmrap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
